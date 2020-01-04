@@ -1,5 +1,5 @@
 # practice-programming-language
-> including private language study(e.g. C++, Java, Python)
+> Including language study(e.g. C++, Java, Python) for baisc-level learning
 
 ## Contents
 * C
@@ -9,6 +9,5 @@
 * C++
   * C++ Primer Plus
   * C++ Primer
-  * 윤성우 열혈 C++ 프로그래밍
 * Java
 * Python
