@@ -11,3 +11,4 @@
   * C++ Primer
 * Java
 * Python
+  * 혼자 공부하는 Python
