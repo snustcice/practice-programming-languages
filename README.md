@@ -1,5 +1,4 @@
 # practice-programming-language
-> Including language study(e.g. C++, Java, Python) for baisc-level learning
 
 ## Contents
 * C
